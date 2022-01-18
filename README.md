@@ -44,4 +44,4 @@ Open in your web browser the monitoring dashboards:
 
 ## Diagram of workflow
 
-![Digrama](https://github.com/inesouledelhaj/devops-app/Diagram.png?raw=true)
+![Digrama](https://github.com/inesouledelhaj/devops-app/blob/master/Diagram.png?raw=true)
