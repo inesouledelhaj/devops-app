@@ -76,7 +76,7 @@ app.get('/metrics', async (req, res) => {
 
 
 // Listen to the App Engine-specified port, or 8080 otherwise
-const PORT = process.env.PORT || 80;
+const PORT = process.env.PORT || 8080;
 module.exports = app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}... metrics are exposed on ${PORT}/metrics`);
 });
