@@ -3,6 +3,7 @@ Node.js Application Monitoring with Prometheus and Grafana
 
 The repository contains a sample Node.js app that integrates the [Prometheus client for node.js](https://github.com/siimon/prom-client) and exposes metrics on [http://localhost:8080/metrics](http://localhost:8080/metrics). The metrics are periodically scraped by [Prometheus](https://prometheus.io) and visualized through a [Grafana](https://grafana.com/oss/grafana) monitoring dashboard.
 
+This app is deployed on a container instance in Azure [Link to app](http://devops-app.westeurope.azurecontainer.io:8080/)
 ## Prerequisites
 
 Make sure that you have Docker and Docker Compose installed:
