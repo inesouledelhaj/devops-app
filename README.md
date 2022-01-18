@@ -41,3 +41,7 @@ Open in your web browser the monitoring dashboards:
 - [High Level Application metrics](http://localhost:3000/d/OnjTYJg7k/high-level-application-metrics)
 - [Node Service Level Metrics Dashboard](http://localhost:3000/d/WBxkVyRnz/node-service-level-metrics-dashboard)
 - [NodeJS Request Flow Dashboard](http://localhost:3000/d/2Er5E1R7k/nodejs-request-flow-dashboard)
+
+## Diagram of workflow
+
+![Digrama](https://github.com/inesouledelhaj/devops-app/Diagram.png?raw=true)
